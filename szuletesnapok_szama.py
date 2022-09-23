@@ -1,4 +1,4 @@
-idei_év = 2022
+idei_év = 2022 # módosítva
 születési_év = input('Melyik évben születtél? ')
 születési_év = int(születési_év)
 volte = input('Volt már idén születésnapod? (i/n) ')
